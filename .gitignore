@@ -1,0 +1,11 @@
+# ignore everything in this directory
+*
+
+# except:
+!.gitignore
+
+!LICENSE
+!README
+
+!*.sfdisk
+
